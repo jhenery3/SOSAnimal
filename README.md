@@ -15,3 +15,4 @@ CODE IGNITER. REQUIERE PHP VERSION 5.6
 			'prefix'    => '',
       
 - no requiere configurar url.
+- puede ver un demo en la sigueinte direccion http://consultveterinaria.aljania.com/, solicitar usuario y pass demo al correo: jhenery@aljania.com
