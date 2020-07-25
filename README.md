@@ -4,15 +4,16 @@ CODE IGNITER. REQUIERE PHP VERSION 5.6
 - Para la instalacion descargar el repositorio y copiarlo a la carpera www.
 - configurar base de datos de la siguiente foma:
 
-'mysql' => array(
+		'mysql' => array(
 			'driver'    => 'mysql',
 			'host'      => 'localhost',
-			'database'  => 'databse',
+			'database'  => 'basededatos',
 			'username'  => 'usuario',
 			'password'  => 'clave',
 			'charset'   => 'utf8',
 			'collation' => 'utf8_unicode_ci',
 			'prefix'    => '',
+		),
       
 - no requiere configurar url.
 - puede ver un demo en la sigueinte direccion http://consultveterinaria.aljania.com/, solicitar usuario y pass demo al correo: jhenery@aljania.com
