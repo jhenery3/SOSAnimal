@@ -1,0 +1,20 @@
+[2020-07-25 01:10:26] production.ERROR: exception 'Symfony\Component\Debug\Exception\FatalErrorException' with message 'Class 'Department' not found' in /home2/aljaniac/public_html/consultveterinaria/app/controllers/AdminController.php:14
+Stack trace:
+#0 [internal function]: Illuminate\Exception\Handler->handleShutdown()
+#1 {main} [] []
+[2020-07-25 01:10:40] production.ERROR: exception 'Symfony\Component\Debug\Exception\FatalErrorException' with message 'Class 'Department' not found' in /home2/aljaniac/public_html/consultveterinaria/app/controllers/AdminController.php:14
+Stack trace:
+#0 [internal function]: Illuminate\Exception\Handler->handleShutdown()
+#1 {main} [] []
+[2020-07-25 01:10:53] production.ERROR: exception 'Symfony\Component\Debug\Exception\FatalErrorException' with message 'Class 'Department' not found' in /home2/aljaniac/public_html/consultveterinaria/app/controllers/AdminController.php:14
+Stack trace:
+#0 [internal function]: Illuminate\Exception\Handler->handleShutdown()
+#1 {main} [] []
+[2020-07-25 01:10:59] production.ERROR: exception 'Symfony\Component\Debug\Exception\FatalErrorException' with message 'Class 'Department' not found' in /home2/aljaniac/public_html/consultveterinaria/app/controllers/AdminController.php:14
+Stack trace:
+#0 [internal function]: Illuminate\Exception\Handler->handleShutdown()
+#1 {main} [] []
+[2020-07-25 01:11:26] production.ERROR: exception 'Symfony\Component\Debug\Exception\FatalErrorException' with message 'Class 'Department' not found' in /home2/aljaniac/public_html/consultveterinaria/app/controllers/AdminController.php:14
+Stack trace:
+#0 [internal function]: Illuminate\Exception\Handler->handleShutdown()
+#1 {main} [] []
